@@ -1,0 +1,11 @@
+[Setting]
+BundleVersion=2.0.62
+Version=1.0.213
+AppUrl=http://120.233.10.212:54131/android/m2sw.aspx
+UpdateUrl=https://pastebin.com/raw/xB0GKLYV
+ServerUrl=https://pastebin.com/raw/A5wst2nt
+PatchInfo=http://120.233.10.212:54131/android/patchinfo.txt
+NoticeInfo=http://120.233.10.212:54131/android/noticeinfo.txt
+HKPatchInfo=http://120.233.10.212:54131/android/hkpatchinfo.txt
+TempNoticeInfo=http://120.233.10.212:54131/android/tempnoticeinfo.txt
+UpdateNoticeInfo=http://120.233.10.212:54131/android/updatenoticeinfo.txt
