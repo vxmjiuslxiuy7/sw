@@ -2,8 +2,8 @@
 BundleVersion=2.0.62
 Version=1.0.213
 AppUrl=http://120.233.10.212:54131/android/m2sw.aspx
-UpdateUrl=https://pastebin.com/raw/xB0GKLYV
-ServerUrl=https://pastebin.com/raw/A5wst2nt
+UpdateUrl=https://raw.githubusercontent.com/vxmjiuslxiuy7/sw/android/update.txt
+ServerUrl=https://raw.githubusercontent.com/vxmjiuslxiuy7/sw/android/server.ini
 PatchInfo=http://120.233.10.212:54131/android/patchinfo.txt
 NoticeInfo=http://120.233.10.212:54131/android/noticeinfo.txt
 HKPatchInfo=http://120.233.10.212:54131/android/hkpatchinfo.txt
