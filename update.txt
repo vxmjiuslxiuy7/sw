@@ -16,3 +16,5 @@ ResInfoUrl=http://120.233.10.212:54131/android/resinfo.txt
 HKResInfoUrl=http://120.233.10.212:54131/android/hkresinfo.txt
 PingUrl=http://120.233.10.212:54131/android/m2swping.txt
 DgwUrl=http://120.233.10.212:54131/android/dgw.ini
+
+x
